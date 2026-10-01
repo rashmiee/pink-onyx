@@ -1,0 +1,6 @@
+.git/**
+.gitignore
+samples/**
+images/icon.svg
+*.vsix
+images/screenshot-*.png

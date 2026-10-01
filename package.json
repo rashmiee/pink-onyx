@@ -1,0 +1,51 @@
+{
+  "name": "pink-onyx",
+  "displayName": "Pink Onyx",
+  "description": "A pink theme on pure black: soft bubblegum pink, cute and easy on the eyes.",
+  "version": "1.0.0",
+  "publisher": "Rashmiee",
+  "author": "Rashmi Prabha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rashmiee/pink-onyx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rashmiee/pink-onyx/issues"
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "pink",
+    "pink theme",
+    "black",
+    "dark",
+    "dark theme",
+    "bubblegum",
+    "baby pink",
+    "pastel",
+    "cute",
+    "girly",
+    "kawaii",
+    "aesthetic",
+    "onyx"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Onyx",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pink-onyx-color-theme.json"
+      }
+    ]
+  }
+}
